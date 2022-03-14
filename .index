@@ -1,0 +1,51 @@
+<!DOCTYPEhtml >
+< html  lang =" es " >
+
+< cabeza >
+    < juego de caracteres meta  =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    < meta  name =" viewport " content =" ancho=ancho-del-dispositivo, escala-inicial=1.0 " >
+    < título > Taller GIT & GITHUB </ título >
+    < enlace  rel =' icono ' href =' https://www.unab.edu.sv/wp-content/uploads/2016/11/cropped-favicon.ico-32x32.png ' tamaños =' 32x32 ' >
+    < enlace  rel =' icono ' href =' https://www.unab.edu.sv/wp-content/uploads/2016/11/cropped-favicon.ico-192x192.png ' tamaños =' 192x192 ' >
+    < link  rel =' apple-touch-icon-precomposed ' href =' https://www.unab.edu.sv/wp-content/uploads/2016/11/cropped-favicon.ico-180x180.png ' >
+    < enlace  rel =" hoja de estilo " href =" css/normalize.css " >
+    < enlace  rel =" hoja de estilo " href =" css/style.css " >
+</ cabeza >
+
+< cuerpo >
+    <!--
+        La etiqueta main representa el contenido principal del <body> de un documento o aplicación. El área principal del
+         contenido consiste en el contenido que está directamente relacionado, o se expande sobre el tema central de un
+         documento o la funcionalidad central de una aplicación.
+    -->
+    < clase principal  =" flex " > </ principal >
+    < id de plantilla  =" tarjeta-plantilla " >
+        < clase de artículo  =" tarjeta " >
+            < img  src =" img/bg1.jpg " alt =" imagen del perfil " class =" card-header " >
+            < div  class =" cuerpo de la tarjeta " >
+                < img  src =" img/bg-card.jpg " alt ="" class =" card-body-img " >
+                < h1  class =" card-body-title " > vencedor < span > 26 </ span > </ h1 >
+                < p  class =" tarjeta-cuerpo-texto " > pais </ p >
+                < abarcan  clase =" línea-cuerpo-de-tarjeta " > </ abarcan >
+            </ div >
+            < div  class =" pie de página de tarjeta " >
+                < div  class =" tarjeta-pie de página-social " >
+                    < h3 > 80K </ h3 >
+                    < p > Ataque </ p >
+                </ div >
+                < div  class =" tarjeta-pie de página-social " >
+                    < h3 > 80K </ h3 >
+                    < p > Especial </ p >
+                </ div >
+                < div  class =" tarjeta-pie de página-social " >
+                    < h3 > 80K </ h3 >
+                    < p > Defensa </ p >
+                </ div >
+            </ div >
+        </ artículo >
+    </ plantilla >
+    < script  src =" js/api.js " > </ script >
+</ cuerpo >
+
+</ html >
